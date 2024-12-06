@@ -1,0 +1,27 @@
+
+#EXTINF:-1, beIN Sport HD 1-AR
+http://gcp-dash.ngslbs.com:80/TVD4001/index.mpd
+#EXTINF:-1, beIN Sport HD 2-AR
+http://gcp-dash.ngslbs.com:80/TVD4002/index.mpd
+#EXTINF:-1, beIN Sport HD 3-AR
+http://gcp-dash.ngslbs.com:80/TVD4003/index.mpd
+#EXTINF:-1, beIN Sport HD 4-AR
+http://gcp-dash.ngslbs.com:80/TVD4004/index.mpd
+#EXTINF:-1, beIN Sport HD 5-AR
+http://gcp-dash.ngslbs.com:80/TVD4005/index.mpd
+#EXTINF:-1, beIN Sport HD 6-AR
+http://gcp-dash.ngslbs.com:80/TVD4006/index.mpd
+#EXTINF:-1, beIN Sport HD 7-AR
+http://gcp-dash.ngslbs.com:80/TVD4007/index.mpd
+#EXTINF:-1, beIN Sport HD 8
+http://gcp-dash.ngslbs.com:80/TVD4062/index.mpd
+#EXTINF:-1, beIN Sport HD 9
+http://gcp-dash.ngslbs.com:80/TVD4063/index.mpd
+#EXTINF:-1, beIN Sports AFC
+http://gcp-dash.ngslbs.com:80/TVD4064/index.mpd
+#EXTINF:-1, beIN Sports AFC 1
+http://gcp-dash.ngslbs.com:80/TVD4065/index.mpd
+#EXTINF:-1, beIN Sports AFC 2
+http://gcp-dash.ngslbs.com:80/TVD4066/index.mpd
+#EXTINF:-1, beIN Sports AFC 3
+http://gcp-dash.ngslbs.com:80/TVD4067/index.mpd
